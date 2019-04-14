@@ -1,0 +1,4 @@
+@ telegram-desktop
+$ 123213
+& Pervy
+# /snap/telegram-desktop/current/asdada

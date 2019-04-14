@@ -1,7 +1,7 @@
 package database.modelsDB;
 
 /**
- * Description of the program
+ * Class with the description of the Program
  */
 public class ProgramDB {
     private String name;
